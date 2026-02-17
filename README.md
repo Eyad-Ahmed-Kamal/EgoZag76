@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgoZag76
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning data analysis
 
 <!---
 EgoZag76/EgoZag76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
