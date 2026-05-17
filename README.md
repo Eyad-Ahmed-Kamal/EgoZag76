@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EgoZag76
-- 👀 I’m interested in data analytics
+- 👋 Hi, I’m @ُEyad
+- 👀 I’m interested in AI & Data Sceince
 - 🌱 I’m currently learning data analysis
 
 <!---
